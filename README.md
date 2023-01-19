@@ -1,2 +1,2 @@
 # expense_tracker
- Expense Tracker in Python that uses sqlite3.
+ Expense tracking tool in the command line using python which also makes use of sqlite3 database.
