@@ -1,2 +1,2 @@
-# expense_tracker
- Expense Tracker in Python
+Expense Tracker
+Expense Tracker in Python using sqlite3
